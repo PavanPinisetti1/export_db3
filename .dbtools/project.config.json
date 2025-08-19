@@ -5,7 +5,7 @@
     "version" : "25.2.2.0"
   },
   "schemas" : [ "WKSP_EBS2CLOUD_MIGRATION" ],
-  "lastReleaseVersion" : "",
+  "lastReleaseVersion" : "1.5",
   "export" : {
     "format" : {
       "enable" : true
